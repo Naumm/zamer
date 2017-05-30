@@ -1,2 +1,2 @@
 # zamer
-Web site and RESTfull API
+Web site 
